@@ -1,4 +1,4 @@
-const VERSION = 'anabomby-v1.1.2';
+const VERSION = 'anabomby-v1.3.0';
 const FILES = ['./', './index.html', './manifest.json', './logo.png', './favicon.png',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
